@@ -10,7 +10,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 691px;
-  background-image: url("images/mid-shot-woman-therapist-with-clipboard_23-2148759113.jpg");
+  background-image: url("images/caadapaidsperson.jpeg");
   background-position: 50% 50%;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 691px;
+  min-height: 811px;
   background-image: none;
 }
 
@@ -30,19 +30,15 @@
 .u-section-1 .u-text-1 {
   line-height: 24px;
   letter-spacing: 4px;
-  font-family: "Open Sans", sans-serif;
   text-transform: uppercase;
-  font-weight: 400;
   font-size: 1.25rem;
-  margin: 0;
+  margin: 0 5px 0 -5px;
 }
 
 .u-section-1 .u-text-2 {
   font-size: 3.75rem;
   letter-spacing: normal;
   text-transform: none;
-  font-family: "Titillium Web";
-  font-weight: 700;
   margin: 9px 0 0;
 }
 
@@ -52,23 +48,14 @@
   margin: 20px 0 0;
 }
 
-.u-section-1 .u-text-4 {
-  margin: 18px 140px 0 0;
-}
-
 .u-section-1 .u-btn-1 {
-  border-style: none none solid;
-  padding: 0;
-}
-
-.u-section-1 .u-btn-2 {
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 400;
   font-size: 1rem;
-  border-style: solid;
+  border-style: none;
   background-image: none;
-  margin: 45px auto 0 0;
+  margin: 18px auto 0 0;
   padding: 19px 51px 20px 50px;
 }
 
@@ -86,15 +73,20 @@
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 570px;
+    min-height: 669px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+    font-family: Aller_Rg;
+    font-weight: normal;
   }
 
   .u-section-1 .u-text-2 {
     font-size: 3.125rem;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-right: 53px;
+    font-family: Aller_Rg;
+    font-weight: bold;
   }
 }
 
@@ -127,10 +119,6 @@
 
   .u-section-1 .u-text-2 {
     font-size: 3rem;
-  }
-
-  .u-section-1 .u-text-4 {
-    margin-right: 0;
   }
 }
 
@@ -220,7 +208,7 @@
   font-weight: 400;
   font-size: 1rem;
   text-transform: uppercase;
-  border-style: solid;
+  border-style: none;
   background-image: none;
   margin: 38px auto 0 0;
   padding: 19px 46px 20px;
@@ -358,7 +346,7 @@
 
 .u-section-3 .u-text-1 {
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: 400;
   margin: 7px 0 0;
 }
 
@@ -379,7 +367,7 @@
 
 .u-section-3 .u-text-3 {
   font-size: 3rem;
-  font-weight: 700;
+  font-weight: 400;
   margin: 0;
 }
 
@@ -617,7 +605,7 @@
   font-size: 1rem;
   font-weight: 400;
   text-transform: uppercase;
-  border-style: solid;
+  border-style: none;
   background-image: none;
   margin: 40px auto 0 2px;
   padding: 19px 45px 20px;
@@ -1118,7 +1106,7 @@
   letter-spacing: 2px;
   font-weight: 700;
   font-size: 1.25rem;
-  margin: 0;
+  margin: 23px 0 0;
 }
 
 .u-section-5 .u-text-4 {
@@ -1715,4 +1703,9 @@
     height: 1747px;
     width: 340px;
   }
+}@font-face {
+  font-family: 'Aller_Rg';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Aller_Rg.ttf);
 }
