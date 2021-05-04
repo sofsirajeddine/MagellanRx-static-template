@@ -377,12 +377,7 @@
   margin: 20px 1px 0 0;
 }
 
-.u-section-3 .u-text-5 {
-  margin: 20px 1px 0 0;
-}
-
 .u-section-3 .u-btn-1 {
-  border-style: none none solid;
   padding: 0;
 }
 
@@ -420,10 +415,6 @@
   }
 
   .u-section-3 .u-text-4 {
-    margin-right: 0;
-  }
-
-  .u-section-3 .u-text-5 {
     margin-right: 0;
   }
 }

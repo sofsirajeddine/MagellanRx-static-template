@@ -34029,9 +34029,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  margin-top: -52px;
-  margin-right: auto;
-  margin-left: calc(((100% - 1140px) / 2));
+  margin: -52px auto 0 calc(((100% - 1140px) / 2));
 }
 
 .u-header .u-logo-image-1 {
@@ -34053,14 +34051,14 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-image-1 {
-    margin-top: -52px;
-    margin-bottom: 31px;
-    margin-left: calc(((100% - 940px) / 2));
     width: 80px;
     height: 40px;
+    margin-top: -52px;
+    margin-left: calc(((100% - 940px) / 2));
   }
 
   .u-header .u-line-1 {
+    margin-top: 31px;
     margin-left: initial;
     width: auto;
   }
